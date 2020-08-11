@@ -1,3 +1,0 @@
-2020-08-12
-- 브라우저로 열기 시도 시, asp.net NET::ERR_CERT_AUTHORITY_INVALID
-=> IIS - 응용프로그램개발 - ASP 설치 후 실행 가능.
