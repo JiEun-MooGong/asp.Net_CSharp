@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUNJIEUN\\source\\repos\\JiEun-MooGong\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj": {}
+    "C:\\Users\\JUNJIEUN\\Source\\Repos\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUNJIEUN\\source\\repos\\JiEun-MooGong\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj": {
+    "C:\\Users\\JUNJIEUN\\Source\\Repos\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUNJIEUN\\source\\repos\\JiEun-MooGong\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\JUNJIEUN\\Source\\Repos\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj",
         "projectName": "Board_ASP_MVC",
-        "projectPath": "C:\\Users\\JUNJIEUN\\source\\repos\\JiEun-MooGong\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj",
+        "projectPath": "C:\\Users\\JUNJIEUN\\Source\\Repos\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\Board_ASP_MVC.csproj",
         "packagesPath": "C:\\Users\\JUNJIEUN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUNJIEUN\\source\\repos\\JiEun-MooGong\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\obj\\",
+        "outputPath": "C:\\Users\\JUNJIEUN\\Source\\Repos\\asp.Net_CSharp\\Board_ASP_MVC\\Board_ASP_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUNJIEUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
